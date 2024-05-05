@@ -11,5 +11,6 @@ Restapi
  -es lint analyze the code and and find out errors 
  -express js framework of node js
  -npm i -D @types/express
- -
+ -npm i dotenv
+ 
   
