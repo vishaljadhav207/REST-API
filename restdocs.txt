@@ -9,4 +9,7 @@ Restapi
  -add gitignore file using extention git ignore -node
  -in vs code stage changes and add msg and commit it 
  -es lint analyze the code and and find out errors 
+ -express js framework of node js
+ -npm i -D @types/express
+ -
   
