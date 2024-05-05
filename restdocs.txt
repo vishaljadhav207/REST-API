@@ -1,0 +1,10 @@
+Restapi
+
+-npm i;
+-npm install -D typescript nodemon-
+-ts-noderun =ts code directly
+-@types/node=inbuilt module type definations
+-npx tsc --init=tsc is ts compiler
+ -git init
+ -add gitignore file using extention git ignore -node
+  
