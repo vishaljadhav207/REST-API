@@ -1,16 +1,13 @@
-Restapi
-
--npm i;
--npm install -D typescript nodemon-
--ts-noderun =ts code directly
--@types/node=inbuilt module type definations
--npx tsc --init=tsc is ts compiler
- -git init
- -add gitignore file using extention git ignore -node
- -in vs code stage changes and add msg and commit it 
- -es lint analyze the code and and find out errors 
- -express js framework of node js
- -npm i -D @types/express
- -npm i dotenv
- 
-  
+1. Run npm i to install project dependencies.
+2. Install TypeScript and Nodemon as development dependencies with 
+   npm install -D typescript nodemon.
+3. Use ts-node to directly run TypeScript code with ts-node.
+4. @types/node provides inbuilt module type definitions.
+5. Initialize TypeScript configuration with npx tsc --init (TSC is the TypeScript compiler).
+6. Initialize a Git repository with git init.
+7. Add a .gitignore file to ignore node_modules and other unnecessary files.
+8. Stage changes in VS Code and commit them with a meaningful message.
+9. Analyze code with ESLint to find and fix errors.
+10. Express.js is a popular Node.js framework.
+11. Install TypeScript definitions for Express.js with npm i -D @types/express.
+12. Install dotenv to manage environment variables with npm i dotenv.
