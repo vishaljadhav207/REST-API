@@ -7,4 +7,6 @@ Restapi
 -npx tsc --init=tsc is ts compiler
  -git init
  -add gitignore file using extention git ignore -node
+ -in vs code stage changes and add msg and commit it 
+ -
   
